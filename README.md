@@ -1,3 +1,9 @@
+# doit-algorithm-103-match
+[Do it! 알고리즘 코딩 테스트] 103제의 백준(BOJ) 문제를 프로그래머스 및 릿코드 유사 문제로 매칭한 공식 가이드 리스트입니다. 백준 이용이 어려울 때 대안으로 활용하세요!
+
+
+## 🚀 Do it! 알고리즘 코딩 테스트 103제 트윈 문제 리스트
+
 | 번호 | 책 문제 (BOJ) | 유사 문제 (Alternative) | 사이트 | 로직 유사도 | 알고리즘 테마 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **001** | [숫자의 합 (11720)](https://www.acmicpc.net/problem/11720) | 1. [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)<br>2. [Add Digits](https://leetcode.com/problems/add-digits/) | 프로그래머스<br>LeetCode | 100%<br>95% | 배열과 리스트 (숫자 분리) |
